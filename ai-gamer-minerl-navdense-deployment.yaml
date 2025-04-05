@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: ai-model-deployment
+  name: ai-gamer-minerl-navdense
 spec:
   replicas: 1
   selector:
